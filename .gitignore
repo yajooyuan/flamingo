@@ -29,6 +29,7 @@ flamingoclient/Source/Debug/
 flamingoclient/iAutoUpdate/debug/
 flamingoclient/Bin/Flamingo.exe
 flamingoclient/Bin/CatchScreen.exe
+flamingoclient/.vs
 
 flamingoclient/Bin/Logs/
 
@@ -49,6 +50,9 @@ flamingoclient/Bin/Logs/
 
 .DS_Store
 .vscode/
+.vs
+.idea
+
 flamingoAndroid/.DS_Store
 flamingoAndroid/.gradle/
 flamingoAndroid/app/.DS_Store
