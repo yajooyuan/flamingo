@@ -1,0 +1,5 @@
+/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/CMakeFiles/chatserver.dir
+/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/CMakeFiles/fileserver.dir
+/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/CMakeFiles/imgserver.dir
+/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir

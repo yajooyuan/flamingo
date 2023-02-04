@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="FLAMGINGO_SERVER"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chatserver">
+				<Option output="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/chatserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 chatserver"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="chatserver/fast">
+				<Option output="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/chatserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 chatserver/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileserver">
+				<Option output="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/fileserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileserver"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="fileserver/fast">
+				<Option output="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/fileserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 fileserver/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="imgserver">
+				<Option output="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/imgserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 imgserver"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="imgserver/fast">
+				<Option output="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/imgserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 imgserver/fast"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j12 -f &quot;/mnt/d/project/CppPractise_/flamingo/flamingoserver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/AsyncLog.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/AsyncLog.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/ConfigFileReader.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/ConfigFileReader.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/Platform.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/Platform.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/Timestamp.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/base/Timestamp.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/BussinessLogic.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/BussinessLogic.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/ChatServer.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/ChatServer.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/ChatSession.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/ChatSession.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/HttpServer.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/HttpServer.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/HttpSession.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/HttpSession.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/MonitorServer.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/MonitorServer.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/MonitorSession.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/MonitorSession.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/MsgCacheManager.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/MsgCacheManager.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/TcpSession.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/TcpSession.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/UserManager.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/UserManager.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/chatserversrc/main.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/FileManager.cpp">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/FileManager.h">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/FileServer.cpp">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/FileServer.h">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/FileSession.cpp">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/FileSession.h">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/TcpSession.cpp">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/TcpSession.h">
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/fileserversrc/main.cpp">
+			<Option target="fileserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/imgserversrc/main.cpp">
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/jsoncpp1.9.0/json_reader.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/jsoncpp1.9.0/json_value.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/jsoncpp1.9.0/json_writer.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlapi/DatabaseMysql.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlapi/DatabaseMysql.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlapi/Field.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlapi/Field.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlapi/QueryResult.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlapi/QueryResult.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/MysqlManager.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/MysqlManager.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/MysqlThrd.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/MysqlThrd.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/MysqlThrdMgr.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/MysqlThrdMgr.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/TaskList.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/mysqlmgr/TaskList.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Acceptor.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Acceptor.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/ByteBuffer.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/ByteBuffer.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Channel.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Channel.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Connector.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Connector.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EpollPoller.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EpollPoller.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EventLoop.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EventLoop.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EventLoopThread.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EventLoopThread.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EventLoopThreadPool.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/EventLoopThreadPool.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/InetAddress.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/InetAddress.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/PollPoller.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/PollPoller.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Poller.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Poller.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/ProtocolStream.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/ProtocolStream.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/SelectPoller.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/SelectPoller.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Sockets.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Sockets.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TcpClient.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TcpClient.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TcpConnection.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TcpConnection.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TcpServer.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TcpServer.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Timer.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/Timer.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TimerQueue.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/net/TimerQueue.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/DaemonRun.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/DaemonRun.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/MD5.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/MD5.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/StringUtil.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/StringUtil.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/URLEncodeUtil.cpp">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/utils/URLEncodeUtil.h">
+			<Option target="chatserver"/>
+			<Option target="fileserver"/>
+			<Option target="imgserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/ZlibUtil.cpp">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/ZlibUtil.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/adler32.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/compress.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/crc32.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/crc32.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/deflate.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/deflate.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/gzclose.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/gzlib.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/gzread.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/gzwrite.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/infback.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/inffast.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/inffast.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/inflate.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/inflate.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/inftrees.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/inftrees.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/trees.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/trees.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/uncompr.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/zutil.c">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/zlib1.2.11/zutil.h">
+			<Option target="chatserver"/>
+		</Unit>
+		<Unit filename="/mnt/d/project/CppPractise_/flamingo/flamingoserver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
